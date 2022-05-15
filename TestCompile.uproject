@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5D304BE3-4E7B-69C9-5C21-0E90EE851BE9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestCompile",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
