@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+Content/MainMap_BuiltData.uasset
+/**/*_BuiltData.uasset
